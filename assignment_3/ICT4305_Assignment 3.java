@@ -1,3 +1,5 @@
+package assignment_3;
+
 // create a new mydate object from the class in the file MyDate.Java
 class ICT4705_Assignment3 {
     public static void main(String[] args) {

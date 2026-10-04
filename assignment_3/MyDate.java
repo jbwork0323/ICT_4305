@@ -1,3 +1,4 @@
+package assignment_3;
  
 public class MyDate {
     private int day;
